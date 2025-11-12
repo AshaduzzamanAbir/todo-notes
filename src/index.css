@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+#cardContent::-webkit-scrollbar {
+  display: none;
+}
+
+.box {
+  stroke-width: 0;
+}
